@@ -1,0 +1,3 @@
+2019-02-17 18:53:17.618 +05:30 [FTL] Fatal
+System.NotImplementedException: The method or operation is not implemented.
+   at WebErrorLogging.Controllers.DefaultController.Index() in E:\DemoProject\WebErrorLogging\WebErrorLogging\Controllers\DefaultController.cs:line 21
